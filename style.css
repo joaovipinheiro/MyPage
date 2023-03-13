@@ -130,3 +130,21 @@ h3 {
 .icons .link:nth-child(3) {
     background-image: url(/assets//instagram-round-svgrepo-com.svg)
 }
+
+/* Footer */
+
+.footer-container {
+    color: white;
+    font-family: 'Quando', serif;
+    font-size: 15px;
+    margin-block-start: 20em;
+    margin-block-end: 20em;
+    margin-inline-start: 20em;
+    margin-inline-end: 20em;
+    text-align: center;
+    position: relative;
+    box-sizing: border-box;
+    justify-content: center;
+    flex-direction: column;
+    padding: 90px;
+}
